@@ -29,8 +29,7 @@ public class BinaryGapDecoder {
 
 	/**
 	 * MethodName: getLongestBinaryGap 
-	 * Returns the length of longest binary gap present in an integer by converting the integer to a binary string and
-	 * Calculating the gap
+	 * Returns the length of longest binary gap present in an integer by converting the integer to a binary string and calculating the gap
 	 **/
 	public int getLongestBinaryGap(int N) {
 		// Convert integer to binary form
