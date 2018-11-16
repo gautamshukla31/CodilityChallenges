@@ -28,8 +28,8 @@ package codeChallenge.binaryGap;
 public class BinaryGapDecoder {
 
 	/**
-	 * MethodName: getLongestBinaryGap Returns the length of longest binary gap
-	 * present in an integer by converting the integer to a binary string and
+	 * MethodName: getLongestBinaryGap 
+	 * Returns the length of longest binary gap present in an integer by converting the integer to a binary string and
 	 * Calculating the gap
 	 **/
 	public int getLongestBinaryGap(int N) {
